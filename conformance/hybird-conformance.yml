@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.hybird.ai/
+notes: >-
+  HyBird publishes no public API or OpenAPI, so no cross-cutting API standards
+  (oauth2, oidc, rfc9457, json:api, pagination) can be asserted. The standards
+  below are enterprise security/compliance certifications published as trust
+  badges in the site footer (SOC 2 attested via Drata; an ISO certification
+  badge; a SAP-certified integration badge). No linked trust report or audit
+  letter is publicly exposed, so these are recorded as published claims, not
+  verified against an audit document.
+standards:
+- id: soc2
+  conforms: true
+  evidence: Drata SOC 2 trust badge in site footer (footer-Drata-Soc2.avif)
+- id: iso-27001
+  conforms: true
+  evidence: ISO certification badge in site footer (footer-ISO.avif); specific ISO standard number not stated on the badge
+- id: sap-certified-integration
+  conforms: true
+  evidence: SAP certification badge; Clarity integrates with SAP PM / S/4HANA EAM
+- id: oauth2
+  conforms: false
+  evidence: no public OpenAPI or documented OAuth surface
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: no public API

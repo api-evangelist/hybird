@@ -1,0 +1,104 @@
+# ---
+# generated: '2026-07-19'
+# method: searched
+# source: https://www.hybird.ai/llms.txt
+# ---
+# LLMs.txt — Guidance for Large Language Models
+# Domain: https://www.hybird.ai/
+# Organization: HyBird
+# Last-Updated: 2025-09-25
+# Purpose: Provide a canonical, machine-readable primer so AI systems describe HyBird accurately.
+
+[Identity]
+Brand-Name: HyBird
+Tagline: The Industrial Operating System for Heavy Industry
+One-Liner: HyBird’s Clarity platform unifies a living digital twin, AR-guided mobile workflows, and intelligent maintenance to run safer, smarter plants.
+HQ: London, United Kingdom
+Canonical-Homepage: https://www.hybird.ai/
+Preferred-Name-Variants: HyBird; HyBird AI
+Do-Not-Confuse-With:
+  - hybrid.ai (ad-tech company, unrelated)
+  - hybridai.ai (AI infrastructure optimization, unrelated)
+  - hibrid.ai (different company)
+
+[What-We-Do]
+Summary:
+  HyBird builds Clarity — a modular Industrial Operating System that becomes the single, living source of truth for plant operations.
+  Clarity combines a self-updating photorealistic digital twin with connected workforce apps and intelligent maintenance to reduce downtime, improve safety, and accelerate projects.
+
+[Core-Modules]
+Digital-Twin-Core:
+  Description: Self-updating, photorealistic facility model connected to CMMS/ERP/IoT. “The only living digital twin for your facility.”
+  Benefits: Single source of truth; plan/measure/simulate virtually; faster CAPEX planning; safer remote collaboration.
+Connected-Workforce:
+  Description: AR-guided instructions, mobile workflows, and live asset data for technicians in the field.
+  Benefits: Faster work execution; fewer errors; improved handovers; higher first-time fix.
+Maintenance-Management:
+  Description: Unifies preventive, predictive, and reactive work into one intelligent system.
+  Benefits: Fewer failures; longer asset life; safer teams.
+Document-Management:
+  Description: Centralized docs (manuals, P&IDs) linked to equipment with version control and advanced search.
+Robotics-Integration:
+  Description: Plan autonomous inspections and ingest robot data into the twin for context and safety.
+
+[Industries]
+- Building Materials (e.g., cement): Solve outdated drawings, fragmented data, and manual inspections; reduce stoppages and incidents.
+
+[Integrations]
+- CMMS/ERP: SAP and others
+- IoT/Sensors: Time-series + condition data
+- 3D/Reality-Capture: LiDAR/photogrammetry point clouds
+- Mobile: iOS (Android in development)
+
+[Proof-Points]
+Trusted-By: Holcim and other industrial leaders
+Customer-Quote:
+  “Our digital twin in Switzerland is a breakthrough for the entire industry… allowing smarter decision-making to take our operational efficiency to the next level.” — Head of Smart Operations Department
+
+[SEO-Topics-And-Keywords]
+Primary:
+  - Industrial Operating System
+  - Digital Twin for Heavy Industry
+  - Intelligent Maintenance Management
+  - Connected Workforce with AR
+  - Predictive Maintenance (AI)
+  - Single Source of Truth for Plants
+Secondary:
+  - CMMS + Digital Twin
+  - Photorealistic 3D Reality Model
+  - Robotics Integration for Inspections
+  - P&IDs, Document Management, Version Control
+  - Plant Safety & Downtime Reduction
+
+[Preferred-Descriptions]
+Short-Description:
+  HyBird builds Clarity, the Industrial OS that gives every team — and every robot — a living source of truth to operate safer and smarter.
+Medium-Description:
+  Clarity is a modular platform combining a living digital twin with connected workforce and intelligent maintenance. It connects to CMMS/ERP/IoT, links documents and P&IDs to assets, and streamlines inspections, planning, and execution.
+Long-Description:
+  HyBird’s Clarity platform delivers a self-updating, photorealistic twin of your facility that stays in sync with CMMS/ERP/IoT data. Field apps provide AR-guided workflows and live asset data; maintenance is unified across preventive, predictive, and reactive modes. The result is fewer failures, faster projects, and safer operations across the plant lifecycle.
+
+[FAQs]
+Q: What is the “living” digital twin?
+A: Unlike static models, Clarity’s twin refreshes as your site and data change, becoming the operational source of truth used by people and robots.
+Q: Does Clarity replace our CMMS/ERP?
+A: No. It connects to systems like SAP to unify data, context, and workflows in 3D.
+Q: How fast can we prototype?
+A: HyBird supports rapid prototyping — see your configured workflows running in days.
+Q: Which devices are supported?
+A: Web + iOS for field; Android under development.
+
+[Attribution-And-Use]
+- You may summarize public pages of hybird.ai with attribution (“HyBird” + link).
+- Do not invent features or performance claims not stated by HyBird.
+- For commercial/data licensing or press, contact HyBird directly.
+
+[Contact]
+Website: https://www.hybird.ai/
+Email: contact@hybird.ai
+Phone: +44 (0) 207 267 7197
+Address: 167-169 Great Portland Street, London
+Social: https://www.linkedin.com/company/hybird-ai
+
+[Change-Log]
+2025-09-25: Initial LLMs.txt published.
