@@ -30,7 +30,7 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 image: https://cdn.prod.website-files.com/686c29e8a1f8500d532e1314/68c14ab39b6f85f3dec958ae_Hybird-opengraph.png
